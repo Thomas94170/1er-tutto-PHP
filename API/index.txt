@@ -1,0 +1,10 @@
+<!-- premier point d'entrée a mettre en place www.monsite.fr/formations
+ceci doit etre recu par mon fichier index.php sous la forme www.monsite.fr/index.php?demande-formations
+pour cela il faut le faire avec un fichier htaccess -->
+<!-- 2eme point d'entrée sera formations/categorie (PHP, JS etc...) -->
+<!-- 3eme point d'entrée sera formations/id -->
+
+<!-- Si j ai bien recu ma demande je peux faire ma demande specifique, sinon je retourne une erreur -->
+<!-- mon if (demande en relation avec le fichier.htaccess) -->
+
+<!-- ce fichier est un fichier de routage -->

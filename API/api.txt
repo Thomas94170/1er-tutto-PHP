@@ -1,0 +1,15 @@
+<!-- récupération de data avec nos 3 fonctions permettant d'envoyer les informations vers l'API
+nous récupérons ces 3 fonctions que nous allons utiliser dans le fichier index.php-->
+
+<!--  -->
+
+
+<!-- getConnexion sert à la connexion avec notre base de données -->
+<!-- les select de la ligne 5 sont les tables que nous avons crées f.id = id dans la table formation par ex -->
+<!-- requete terminée il faut maintenant l'éxécuter. nous la préparons avec un $stmt ou on appelle la connexion de pdo
+    on fait maintenant un stmt d execute pour recup les datas.
+    On fait un fetchAll en y mettant un tableau associatif en y renseignant le param fetch_assoc
+    le closeCursor termine notre récupération des datas -->
+
+<!-- Pour récup nos données JSON nous créons une fonction se nommant sendJSON avec en param notre variable $formations -->
+<!-- la fonction sendJSON défini indique que tt le monde y a acces, qu elle est en format json et que l encodage est en Json -->
