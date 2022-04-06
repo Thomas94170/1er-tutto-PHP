@@ -34,9 +34,9 @@
                             <li><a class="dropdown-item" href="formationsCategorie.php?categorie=HTML/CSS">HTML/CSS</a></li>
                             <li><a class="dropdown-item" href="formationsCategorie.php?categorie=SQL">SQL</a></li>
                             <li><a class="dropdown-item" href="formationsCategorie.php?categorie=Wordpress">Wordpress</a></li>
-                            <li><a class="dropdown-item" href="formationsCategorie.php?categorie=PHP">Bureautique</a></li>
-                            <li><a class="dropdown-item" href="formationsCategorie.php?categorie=PHP">Algorithmique</a></li>
-                            <li><a class="dropdown-item" href="formationsCategorie.php?categorie=PHP">Analyse-Conception</a></li>
+                            <li><a class="dropdown-item" href="formationsCategorie.php?categorie=Bureautique">Bureautique</a></li>
+                            <li><a class="dropdown-item" href="formationsCategorie.php?categorie=Algorithmique">Algorithmique</a></li>
+                            <li><a class="dropdown-item" href="formationsCategorie.php?categorie=Analyse-Conception">Analyse-Conception</a></li>
                         </ul>
                     </li>
                 </ul>
